@@ -1,0 +1,16 @@
+This file demonstrates the locations of files for Deliverable4 and their respective locations from the top level directory.
+
+Updated meeting minutes files location :
+  Meeting Minutes ------>meeeting_minutes_3_28_22.docx
+                  ------->meeting_minutes_4_4_22.docx
+                  
+  
+ Source Code for Phase 2:
+  source ----> Phase2 -----> employee_ms
+  
+ 
+ Deliverable 4 report:
+  Deliverables -----> Deliverable4 -----> Deliverable 4- Pseudo Mavericks.docx
+  
+  
+

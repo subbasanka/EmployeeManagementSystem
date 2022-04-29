@@ -1,0 +1,20 @@
+This file demonstrates the locations of files for Deliverable5 and their respective locations from the top level directory.
+
+Updated meeting minutes files location :
+  Meeting Minutes ------>meeeting_minutes_4_10_22.docx
+                  ------->meeting_minutes_4_16_22.docx
+		  ------->meeting_minutes_4_25_22.docx
+                  
+  
+ Source Code for Phase 3:
+  source ----> Phase3 -----> employee_ms
+  
+ 
+ Deliverable 5 report:
+  Deliverables -----> Deliverable5 -----> Deliverable 5- Pseudo Mavericks.docx
+  
+ Deliverable 5 - Final Project Presentation:
+  Power Point ------> pseudo-mavericks-del-5.pptx
+  
+  
+
