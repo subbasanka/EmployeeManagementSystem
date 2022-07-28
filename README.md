@@ -21,14 +21,7 @@ Here is a list of useful project references/links.
 - [README.md](https://github.com/amarendhar-reddy/project-pseudo-mavericks/blob/main/README.md) 
 ## Authors
 
-- [Aamarendhar reddy](https://github.com/amarendhar-reddy)
 - [Subbarao Sanka](https://github.com/ssubbu07)
-- [Vaishnavi Choppalli](https://github.com/VaishnaviChoppalli23)
-- [Kalyani Virivinti](https://github.com/KalyaniVirivinti)
-- [Aparna Mirapakayala](https://github.com/AparnaMirapakayala)
-- [Kavya Keerthi](https://github.com/keerthiKT)
-- [Narasimharao Gurram](https://github.com/NarasimharaoGurram)
-- [NehaChowdary Puvvada](https://github.com/NehaChowdaryPuvvada)
 
 ## Documentation
 
