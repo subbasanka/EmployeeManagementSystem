@@ -87,3 +87,8 @@ To run tests, run the following command
 **Testing:** PHPUnit
 
 **Server:** Apache
+
+**Contributor:**
+<a href="https://github.com/subbasanka/EmployeeManagementSystem/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=subbasanka/EmployeeManagementSystem" />
+</a>
